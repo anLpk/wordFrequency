@@ -1,1 +1,1 @@
-# wordFrequency
+# wordFrequency Method with Ruby
